@@ -1,0 +1,11 @@
+2020/07/11 14:22:16 [emerg] 1#1: no port in upstream "php-upstream" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:25:48 [emerg] 1#1: no port in upstream "php-upstream" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:27:02 [emerg] 1#1: no port in upstream "php-upstream" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:39:12 [emerg] 1#1: no port in upstream "php-upstream" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:40:52 [emerg] 1#1: no port in upstream "php-upstream" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:51:23 [emerg] 1#1: host not found in upstream "php-fpm_1" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:58:20 [emerg] 1#1: host not found in upstream "test_php-fpm_1" in /etc/nginx/conf.d/test.local.conf:17
+2020/07/11 14:59:04 [emerg] 1#1: host not found in upstream "test_php-fpm_1" in /etc/nginx/conf.d/exampl.local.conf:17
+2020/07/11 15:02:11 [emerg] 1#1: host not found in upstream "test_php-fpm_1" in /etc/nginx/conf.d/example.local.conf:17
+2020/07/11 15:04:21 [emerg] 1#1: no port in upstream "php-fpm_1" in /etc/nginx/conf.d/example.local.conf:17
+2020/07/11 15:07:42 [emerg] 1#1: no port in upstream "php-fpm_1" in /etc/nginx/conf.d/example.local.conf:17
